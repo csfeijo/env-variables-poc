@@ -1,0 +1,54 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-roboto: Roboto;
+
+  /* font sizes */
+  --font-size-sm: 14px;
+  --font-size-base: 16px;
+  --font-size-xs: 12px;
+  --font-size-13xl: 32px;
+  --font-size-9xl: 28px;
+  --font-size-xl: 20px;
+
+  /* Colors */
+  --light-backgrounds-ui-background-body: #fff;
+  --light-border-border-color-medium: #999;
+  --color-whitesmoke-100: #f4f4f4;
+  --color-whitesmoke-200: rgba(244, 244, 244, 0.4);
+  --light-text-text-color-medium: #666;
+  --light-primary-primary-color-base: #f3652b;
+  --color-chocolate: #da5a26;
+  --light-border-border-color-superweak: #e5e5e5;
+  --light-backgrounds-ui-background-alt: #fafafa;
+  --light-text-text-color-strong: #1e1e1e;
+  --color-lightgray-100: #cccccc;
+  --color-lightgray-200: #cccccc;
+
+  /* Gaps */
+  --gap-5xl: 24px;
+  --gap-5xs: 8px;
+  --gap-9xs: 4px;
+  --gap-base: 16px;
+  --gap-0: 0px;
+  --gap-4xs: 9px;
+
+  /* Paddings */
+  --padding-21xl: 40px;
+  --padding-5xl: 24px;
+  --padding-base: 16px;
+  --padding-5xs: 8px;
+  --padding-xl: 20px;
+
+  /* border radiuses */
+  --br-9xs: 4px;
+
+  /* Effects */
+  --light-shadow-level-4: 0px 24px 32px rgba(0, 0, 0, 0.08);
+}
